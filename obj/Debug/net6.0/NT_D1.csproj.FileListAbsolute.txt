@@ -1,0 +1,15 @@
+D:\NashTech_Projects\Assignment_C#\NT_D1\bin\Debug\net6.0\NT_D1.exe
+D:\NashTech_Projects\Assignment_C#\NT_D1\bin\Debug\net6.0\NT_D1.deps.json
+D:\NashTech_Projects\Assignment_C#\NT_D1\bin\Debug\net6.0\NT_D1.runtimeconfig.json
+D:\NashTech_Projects\Assignment_C#\NT_D1\bin\Debug\net6.0\NT_D1.dll
+D:\NashTech_Projects\Assignment_C#\NT_D1\bin\Debug\net6.0\ref\NT_D1.dll
+D:\NashTech_Projects\Assignment_C#\NT_D1\bin\Debug\net6.0\NT_D1.pdb
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.csproj.AssemblyReference.cache
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.AssemblyInfoInputs.cache
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.AssemblyInfo.cs
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.csproj.CoreCompileInputs.cache
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.dll
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\ref\NT_D1.dll
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.pdb
+D:\NashTech_Projects\Assignment_C#\NT_D1\obj\Debug\net6.0\NT_D1.genruntimeconfig.cache
